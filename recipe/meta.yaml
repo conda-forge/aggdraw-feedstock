@@ -1,6 +1,6 @@
 {% set name = "aggdraw" %}
-{% set version = "1.3.7" %}
-{% set sha256 = "bdb97af21a28f265fb0a264b84f982dd868352402fe45618f0cd82cc60a240c7" %}
+{% set version = "1.3.9" %}
+{% set sha256 = "a233769b37bfe0c1f272cb0a3357019654f5616478a091f1442812d7cf4b06e5" %}
 
 package:
   name: '{{ name|lower }}'
