@@ -30,8 +30,6 @@ test:
   imports:
     - aggdraw
   commands:
-    - conda inspect linkages -p $PREFIX $PKG_NAME  # [not win]
-    - conda inspect objects -p $PREFIX $PKG_NAME   # [osx]
 
 about:
   home: https://github.com/pytroll/aggdraw
