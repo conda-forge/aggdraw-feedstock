@@ -1,11 +1,11 @@
-About aggdraw
-=============
+About aggdraw-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aggdraw-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/pytroll/aggdraw
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aggdraw-feedstock/blob/main/LICENSE.txt)
 
 Summary: High quality drawing interface for PIL.
 
