@@ -1,5 +1,5 @@
 {% set name = "aggdraw" %}
-{% set version = "1.4.0" %}
+{% set version = "1.4.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: db9efe071ff4d5ce2cfb985f61fa9c8e2cfdfa624a49df8a60f8d7491921a73c
+  sha256: e21d6b77afeeffa259b898d652295757fd35f15a9e11a24823c0d7ca63385c83
 
 build:
   number: 0
